@@ -7,8 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1UihI2t67DwHd9UErb51B3PQuqOTjoC4d
 """
 
-!pip install streamlit
-!pip install lifetimes
+
 
 import streamlit as st
 import pandas as pd
